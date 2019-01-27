@@ -62,6 +62,6 @@ while i < d_room:
 
     tower.append(block)
 
-# Draw the tower in a strange way
-print('\nUpended Tower will looks like:')
-print(str(tower).replace('],', '\r\n').replace(']', '').replace('[', '\r').replace(',', ''))
+# Draw the tower in a fun way
+print('\nThe upended tower will looks like:')
+print(str(tower).replace('],', ']\n').replace(']', '').replace('[', '\r').replace(',', ''))
