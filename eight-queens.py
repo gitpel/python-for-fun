@@ -22,7 +22,7 @@
 
 desk_size = 8
 queen_location = []
-# Uncomment the right queens location for the quiz
+# Uncomment the right queens location for the puzzle
 # queen_location = [[1, 2], [2, 4], [3, 6], [4, 8], [5, 3], [6, 1], [7, 7], [8, 5]]
 
 
